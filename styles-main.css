@@ -83,7 +83,7 @@ main {
 }
 
 .bottom > .right {
-  transform: translateX(-73%);
+  transform: translateX(-66%);
   color: hsl(237, 23%, 32%);
   font-weight: 300;
 }
